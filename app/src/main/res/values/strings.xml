@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavGraphDemo</string>
+    <string name="home">Home</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+
+    <string name="dialog_title">Dialog Title</string>
+    <string name="dialog_desc">Dialog Description is used to display the context of the dialog. Dialog Description is used to display the context of the dialog.</string>
+    <string name="okay">Okay</string>
+</resources>

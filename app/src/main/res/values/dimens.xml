@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--button-->
+    <dimen name="size_5">5dp</dimen>
+    <dimen name="size_10">10dp</dimen>
+    <dimen name="size_15">15dp</dimen>
+    <dimen name="size_20">20dp</dimen>
+    <dimen name="size_25">25dp</dimen>
+
+    <!-- text size -->
+    <dimen name="heading_text_size">20sp</dimen>
+    <dimen name="text_size_expanded_title">22sp</dimen>
+    <dimen name="text_size_expanded_title_medium">25sp</dimen>
+    <dimen name="text_size_expanded_title_large">30sp</dimen>
+    <dimen name="text_size_extra_large">32sp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_larger">18sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_small_extra">8sp</dimen>
+    <dimen name="text_size_very_large">42sp</dimen>
+
+    <!--button-->
+    <dimen name="button_corner_radius">5dp</dimen>
+
+    <!-- card details -->
+    <dimen name="card_elevation">3dp</dimen>
+    <dimen name="card_corner_radius">10dp</dimen>
+    <dimen name="image_corner_radius">6dp</dimen>
+    <dimen name="avatar_small">80dp</dimen>
+    <dimen name="avatar_medium">120dp</dimen>
+    <dimen name="avatar_large">152dp</dimen>
+    <dimen name="details_margin_small">4dp</dimen>
+    <dimen name="details_text_size">13sp</dimen>
+    <dimen name="card_width_45dp">45dp</dimen>
+</resources>
