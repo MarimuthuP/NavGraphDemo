@@ -5,14 +5,25 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <com.google.android.material.button.MaterialButton
-        android:id="@+id/btnFirst"
+        android:id="@+id/btnDialog"
         style="@style/AppTheme.MaterialButton.RoundedCorners"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/first"
+        android:text="@string/show_dialog"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnBottomSheet"
+        style="@style/AppTheme.MaterialButton.RoundedCorners"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/bottom_sheet"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btnDialog" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -78,8 +78,12 @@ class FirstFragment : Fragment() {
     }
 
     private fun setupClickListener() {
-        binding.btnFirst.setOnClickListener {
+        binding.btnDialog.setOnClickListener {
             navController.navigate(FirstFragmentDirections.actionFirstFragmentToOneDialogFragment())
+        }
+
+        binding.btnBottomSheet.setOnClickListener {
+            navController.navigate(FirstFragmentDirections.actionFirstFragmentToBottomSheetDialogFragment())
         }
     }
 }

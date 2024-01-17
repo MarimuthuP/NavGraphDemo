@@ -4,7 +4,11 @@
     <string name="first">First</string>
     <string name="second">Second</string>
 
+    <string name="show_dialog">Show Dialog</string>
+    <string name="bottom_sheet">Show Bottom Sheet Dialog</string>
+
     <string name="dialog_title">Dialog Title</string>
     <string name="dialog_desc">Dialog Description is used to display the context of the dialog. Dialog Description is used to display the context of the dialog.</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </string>
     <string name="okay">Okay</string>
 </resources>
