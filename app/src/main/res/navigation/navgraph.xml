@@ -30,7 +30,7 @@
 
     <dialog
         android:id="@+id/oneDialogFragment"
-        tools:layout="@layout/dialog_fragment_one"
+        tools:layout="@layout/dialog_fragment"
         android:name="com.explore.navgraphdemo.OneDialogFragment"
         android:label="OneDialogFragment" />
 
